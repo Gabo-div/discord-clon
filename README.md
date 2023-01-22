@@ -10,8 +10,6 @@ npm run dev
 
 ```
 
-## Iniciar Cliente
-
 Cliente:
 
 ```bash
@@ -20,4 +18,4 @@ npm run dev
 
 ```
 
-Espera unos segundo y abre [http://localhost:3000](http://localhost:3000) en el navegador para ver la app.
+Espera unos segundo y abre [http://localhost:3000](http://localhost:3000) en el navegador para ver la app
